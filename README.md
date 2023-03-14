@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgramirezs&label=Profile%20views&color=0e75b6&style=flat" alt="lgramirezs" /> </p>
 
-- 🔭 I’m currently working on [ERP system](https://gestion.cenditel.gob.ve/trac/wiki/kavac)
+- 🔭 I’m currently working on Telemedicina
 
 - 🌱 I’m currently learning **Laravel, Tailwind**
 
